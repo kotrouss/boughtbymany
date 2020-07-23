@@ -1,0 +1,2 @@
+# boughtbymany
+subdomain takeover POC
